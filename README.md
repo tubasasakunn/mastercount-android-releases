@@ -8,9 +8,9 @@
 
 1. 一般的なスマートフォンでは `mastercount-arm64-v8a.apk` をダウンロードして開きます。
 2. Androidに確認された場合は、APKを開いたブラウザやファイルアプリからのインストールを許可します。
-3. mastercountを開き、Googleでログインして表示名を設定します。
+3. mastercountを開き、LINEでログインして表示名を設定します。
 
-64ビット版Android 9以上、Google Play開発者サービス、更新済みのAndroid System WebViewが必要です。x86_64端末・エミュレーターには `mastercount-universal.apk` を使えます。更新時はアプリを削除せず、新しいAPKを上書きインストールしてください。
+64ビット版Android 9以上、LINEアカウント、更新済みのAndroid System WebViewが必要です。x86_64端末・エミュレーターには `mastercount-universal.apk` を使えます。更新時はアプリを削除せず、新しいAPKを上書きインストールしてください。
 
 ## ウィジェット
 
