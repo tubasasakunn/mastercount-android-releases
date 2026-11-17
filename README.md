@@ -6,6 +6,8 @@
 
 ## インストール
 
+[スクリーンショット付きの入れ方・ダウンロード](https://mastercount-api.testbasaapp.workers.dev/android)で、保存したファイルの開き方から設定の許可、インストール、LINEログインまで案内しています。画像はタップして拡大できます。
+
 1. 一般的なスマートフォンでは `mastercount-arm64-v8a.apk` をダウンロードして開きます。
 2. Androidに確認された場合は、APKを開いたブラウザやファイルアプリからのインストールを許可します。
 3. mastercountを開き、LINEでログインして表示名を設定します。
